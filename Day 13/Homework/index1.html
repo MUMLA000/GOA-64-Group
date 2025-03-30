@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Site</title>
+    </head>
+    <body>
+        <form action="submit_form.php" method="POST">
+            <!-- სახელი -->
+            <label for="name">სახელი:</label>
+            <input type="text" id="name" name="name" value="" required>
+            <!-- ემაილი -->
+            <label for="email">ემაილი:</label>
+            <input type="email" id="email" name="email" value="" required>
+            <!-- სქესი -->
+            <label for="gender">სქესი:</label>
+            <input type="radio" id="male" name="gender" value="male" required> მამაკაცი
+            <input type="radio" id="female" name="gender" value="female" required> ქალი
+            <!-- ასაკი -->
+            <label for="age">ასაკი:</label>
+            <input type="number" id="age" name="age" value="" min="18" max="120" required>
+            <!-- რიცხვი -->
+            <label for="phone">ტელეფონის ნომერი:</label>
+            <input type="tel" id="phone" name="phone" value="" required>
+            <!-- Submit ღილაკი -->
+            <input type="submit" value="გაგზავნა">
+        </form>
+    </body>
+</html>

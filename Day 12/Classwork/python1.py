@@ -1,0 +1,10 @@
+print(1 > 5)   # False
+print(2 < 7)   # True
+print(3 >= 3)  # True
+print(4 <= 2)  # False
+print(5 == 5)  # True
+print(6 != 9)  # True
+print(7 > 4)   # True
+print(8 < 6)   # False
+print(9 >= 10) # False
+print(10 <= 10) # True
