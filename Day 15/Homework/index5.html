@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        <form>
+            <!-- სახელი -->
+            <label for="name">სახელი:</label>
+            <input type="text" id="name" name="name" value="" required>
+            <!-- გვარი -->
+            <label for="sur_name">გვარი:</label>
+            <input type="text" id="sur_name" name="sur_name" value="" required><br><br>
+            <!-- დაბადების თარიღი -->
+            <label for="date">Date of Birth:</label>
+            <input type="date" id="date" name="date" value="" required>
+            <!-- ასაკი -->
+            <label for="age">ასაკი:</label>
+            <input type="number" id="age" name="age" value="" min="0" max="120" required><br><br>
+            <!-- სქესი -->
+            <label for="gender">სქესი:</label><br>
+            <input type="radio" id="male" name="gender" value="male" required> მამაკაცი
+            <input type="radio" id="female" name="gender" value="female" required> ქალი
+            <br><br>
+            <!-- ემაილი -->
+            <label for="email">ემაილი:</label>
+            <input type="email" id="email" name="email" value="" required><br><br>
+            <!-- საქმის არჩევა -->
+            <label for="work">აირჩიე საქმე:</label>
+            <select name="სამუშაო" id="work">
+                <option value="">ვებ დეველოპერი</option>
+                <option value="">ფრონტ-ენდ დეველოპერი</option>
+                <option value="">ბექ-ენდ დეველოპერი</option>
+            </select>
+            <br><br>
+            <!-- გამოცდილება -->
+            <label for="years_of_experience">გამოცდილება:</label>
+            <select name="წელი" id="years_of_experience">
+                <option value="years_of_experience">0-1 წელი</option>
+                <option value="years_of_experience">1-2 წელი</option>
+                <option value="years_of_experience">2-4 წელი</option>
+                <option value="years_of_experience">5+ წელი</option>
+            </select><br><br>
+            <!-- პროგრამის ენა -->
+            <label for="program_language">სასურველი ენა:</label>
+            <select name="program_language" id="program_language">
+                <option value="program_language">Java</option>
+                <option value="program_language">JS</option>
+                <option value="program_language">Python</option>
+                <option value="program_language">C#</option>
+                <option value="program_language">C</option>
+                <option value="program_language">C++</option>
+                <option value="program_language">HTML/CSS</option>
+            </select><br><br>
+            <!-- ადგილმდებარეობა -->
+            <label for="job_location">სამსახურის ადგილმდებარეობა:</label>
+            <select name="job_location" id="job_location">
+                <option value="job_location">New York</option>
+                <option value="job_location">Tbilisi</option>
+                <option value="job_location">London</option>
+                <option value="job_location">San Francisco</option>
+            </select><br><br>
+            <!-- პაროლი -->
+            <label id="password">პაროლი:</label>
+            <input type="password" id="password" name="password" value="" required>
+            <!-- გაიმეორე პაროლი -->
+            <label id="confirm_password">გაიმეორე პაროლი:</label>
+            <input type="password" id="confirm_password" name="confirm_password" value="" required><br><br>
+        </form>
+        <input type="submit" value="გაგზავნა">
+        <input type="submit" value="ხელახლა">
+    </body>
+</html>
