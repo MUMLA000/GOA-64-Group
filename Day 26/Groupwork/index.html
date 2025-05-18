@@ -6,8 +6,7 @@
     <title>Document</title>
     <style>
     body {
-        margin: 0;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 1;
         background: linear-gradient(to right, #e0eafc, #cfdef3);
         color: #333;
     }
@@ -16,13 +15,12 @@
         color: white;
         padding: 2rem;
         text-align: center;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
     h1 {
         margin: 0;
         font-size: 2.5rem;
     }
-    p.description {
+    p {
         font-size: 1.2rem;
         margin-top: 0.5rem;
     }
@@ -30,7 +28,7 @@
         margin: 2rem auto;
         text-align: center;
     }
-    ul.country-list {
+    ul {
         list-style: none;
         padding: 0;
         display: flex;
@@ -38,21 +36,16 @@
         justify-content: center;
         gap: 1.5rem;
     }
-    ul.country-list li {
+    ul li {
         background-color: white;
         border-radius: 10px;
         padding: 1rem 2rem;
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        transition: transform 0.2s, box-shadow 0.2s;
+        transition: 0,2s;
     }
-    ul.country-list li:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
-    }
-    ul.country-list li a {
-        text-decoration: none;
+    ul li a {
         color: #2c3e50;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         font-weight: bold;
     }
     footer {
@@ -66,10 +59,10 @@
 <body>
     <header>
         <h1>მოიძიე ევროპული ქვეყნები</h1>
-        <p class="description">დააჭირე ქვეყანას რომ გაიგე მეტი</p>
+        <p>დააჭირე ქვეყანას რომ გაიგო მეტი</p>
     </header>
     <nav>
-    <ul class="country-list">
+    <ul>
         <li><a href="france.html">საფრანგეთი</a></li>
         <li><a href="italy.html">იტალია</a></li>
         <li><a href="spain.html">ესპანეთი</a></li>

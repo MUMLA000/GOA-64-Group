@@ -7,7 +7,6 @@
     <style>
     body {
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: linear-gradient(to right, #f9f9f9, #e0eafc);
       color: #333;
     }
@@ -25,9 +24,12 @@
       font-size: 2.5rem;
     }
 
+    html {
+      scroll-behavior: smooth;
+    }
+
     .content {
-      max-width: 800px;
-      margin: 2rem auto;
+      margin: 2rem;
       padding: 0 1rem;
       text-align: center;
     }
@@ -47,11 +49,46 @@
       font-weight: bold;
       border: 2px solid #2c3e50;
       padding: 0.5rem 1rem;
-      border-radius: 8px;
-      transition: background 0.2s, color 0.2s;
+      border-radius: 100px;
+      transition: 0.2s;
+      scroll-behavior: smooth;
     }
 
     .back-link:hover {
+      background-color: #2c3e50;
+      color: white;
+    }
+
+    .scroll {
+      display: inline-block;
+      margin-top: 2rem;
+      text-decoration: none;
+      color: #2c3e50;
+      font-weight: bold;
+      border: 2px solid #2c3e50;
+      padding: 0.5rem 1rem;
+      border-radius: 100px;
+      transition: 0.2s;
+    }
+
+    .scroll:hover {
+      background-color: #2c3e50;
+      color: white;
+    }
+
+    .front-link {
+      display: inline-block;
+      margin-top: 2rem;
+      text-decoration: none;
+      color: #2c3e50;
+      font-weight: bold;
+      border: 2px solid #2c3e50;
+      padding: 0.5rem 1rem;
+      border-radius: 100px;
+      transition: 0.2s;
+    }
+
+    .front-link:hover {
       background-color: #2c3e50;
       color: white;
     }
@@ -62,7 +99,7 @@
       margin-top: 3rem;
       color: #777;
     }
-  </style>
+    </style>
 </head>
 <body>
     <header>
@@ -72,7 +109,7 @@
   <div class="content">
     <p>გერმანია ცენტრალური ევროპის წამყვანი ქვეყანაა, რომელიც ცნობილია თავისი ინჟინერიით, ციხესიმაგრეებითა და მდიდარი ისტორიით.</p>
 
-    <img src="Neuschwanstein_Castle.jpg" alt="Neuschwanstein Castle">
+    <img src="Germany.jpg" alt="Germany">
 
     <h2>მნიშვნელოვანი ფაქტები:</h2>
     <ul style="text-align: left; display: inline-block;">
@@ -80,9 +117,10 @@
       <li>ცნობილი ღირსშესანიშნაობები: ნოიშვანშტაინის ციხე, ბრანდენბურგის კარიბჭე</li>
       <li>პოპულარული საკვები: ბრატვურსტი, პრეცელები, მჟავე კომბოსტო</li>
       <li>ენა: გერმანული</li>
-    </ul>
+    </ul><br>
 
-    <a class="back-link" href="index.html">← დაბრუნდი</a>
+    <a class="back-link" href="index.html">← დაბრუნდი</a><br>
+    <a class="front-link" href="germany2.html">გაიგე მეტი</a>
   </div>
 
   <footer>
