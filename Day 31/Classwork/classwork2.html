@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* type selector აქვს ყველაზე დაბალი პრიორიტეტი */
+        p {         
+        color: green;
+    }
+    
+        /* უფრო მაღალი პრიორიტეტი ვიდრე type selector */
+    .myparagraph {
+        color: blue;
+    }
+
+        /* უფრო ძლიერი ვიდრე class */
+    #specialparagraph {
+        color: red;
+    }
+    </style>
+</head>
+<body>
+    <!-- ყველაზე მაღალი პრიორიტეტი -->
+    <p style="color: orange;">
+    რომელ სტილს აქვს უპირატესობა?</p>
+</body>
+</html>

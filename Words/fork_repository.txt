@@ -1,0 +1,8 @@
+git clone https://github.com/your-username/repository-name.git
+git remote set-url origin https://github.com/your-username/repository-name.git
+git remote add upstream https://github.com/original-owner/repository-name.git
+git branch new_branch
+git checkout
+git add .
+git commit -m "update"
+git push origin new_branch

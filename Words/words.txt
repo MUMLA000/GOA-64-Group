@@ -1,0 +1,300 @@
+
+**A**
+
+* add - დამატება
+* additional - დამატებითი
+* algorithm - ნაბიჯ-ნაბიჯ ინსტრუქციები
+* anchor - ღუზა
+* and - და
+* angle brackets - კუთხური ბრჩხილები (<>)
+* append - დართვა
+* arithmetic operator - არითმეტიკული ოპერატორი
+* argument - მნიშვნელობა, რომელსაც გადავცემთ ფუნქციას
+* article - სტატია
+* aspect ratio - თანაფარდობა
+* assign - მინიჭება
+* attribute - ატრიუბტი
+* audio - ხმა
+* autoplay - ავტომატური ჩართვა
+
+**B**
+
+* Backend - საიტის ფუნქციონალური მხარე
+* binary - ორობითი
+* body - ტანი
+* bold - მუქი, გამოკვეთილი
+* boolean - მონაცემთა ტიპი 2 შესაძლო მნიშვნელობით: True, False
+* bottom - ქვემოთ
+* button - ღილაკი
+
+**C**
+
+* calculation - გამოთვლა
+* call - გამოძახება
+* case insensitive - დიდი/პატარა ასოების მიმართ გულგრილი
+* case-sensitive - ქეისისადმი მგრძნობიარე
+* cell - უჯრა
+* change - შეცვლა
+* checkbox - მოსანიშნი ყუთი
+* child - შვილი
+* choice - არჩევანი
+* colon - ორწერტილი
+* color - ფერი
+* comma - მძიმე
+* comment - კომენტარი
+* combine - გაერთიანება
+* command - ბრძანება
+* compatible - თავსებადი
+* comparison - შედარება
+* comparison operator - შედარების ოპერატორი
+* compile - დაქომპილება
+* concatenate - მიერთება
+* conditional statement - პირობითი განცხადება
+* connect - დაკავშირება
+* content - შიგთავსი
+* control - მართვა
+* control flow - დინების მართვა
+* convert - გადაყვანა
+* correct - სწორი
+* correctly - სწორად
+* create - შექმნა
+* CSS - Cascading Style Sheets
+* CSS Rule - კოდი რომელიც სტილავს ელემენტებს
+* curly braces - ფიგურული ბრჩხილები
+* circuit - წრედი
+
+**D**
+
+* data - მონაცემები
+* Data Types - მონაცემთა ტიპები
+* dash - (-) სიმბოლო
+* declare - დეკლარირება/შექმნა
+* declaring - შექმნა, გამოცხადება
+* debugging - შეცდომების გამოსწორება
+* decision - გადაწყვეტა
+* define - განმარტება
+* degree - გრადუსი
+* descendant - შთამომავალი
+* detect - დადგენა
+* different ways - სხვადასხვანაირად
+* disable - გამორთვა
+* display - გამოტანა
+* Displaying - გამოტანა, ეკრანზე გამოსახვა
+* division - განაყოფი
+* document - დოკუმენტი
+* domain name - საიტის სახელის ის ნაწილი რომელიც ყველა ქვეგვერდზე იგივე რჩება
+* drop-down menu - ჩამოსაშლელი მენიუ
+
+**E**
+
+* effective - ეფექტური
+* element - ელემენტი
+* else - სხვა შემთხვევაში
+* em - ემფაზისი
+* emphasis - გამოკვეთა
+* empty - ცარიელი
+* error - შეცდომა, ხარვეზი
+* equal sign - ტოლობის ნიშანი
+* execute - გაშვება
+* explain - ახსნა, განმარტება
+* extension - გაფართოება
+
+**F**
+
+* fix - გამოსწორება
+* fixing errors - შეცდომების აღმოფხვრა
+* follow path - გზას გაყოლა
+* font-size - შრიფტის ზომა
+* font-weight - ტექსტის სისქე
+* for - ამისთვის (რაღაცისთვის)
+* format - ფორმატი, სახე
+* Frontend - საიტის ვიზუალური მხარე
+* function - კოდის ბლოკი, რომელიც ასრულებს კონკრეტულ დავალებას
+
+**G**
+
+* good practice - კარგი პრაქტიკა
+
+**H**
+
+* head - თავი
+* heading - სათაური
+* height - სიმაღლე
+* hit area - მონიშვნის ფართობი
+* HTML - HyperText Markup Language
+* hypertext - ტექსტი, რომლის მიღმაც ბმულია
+
+**I**
+
+* id - უნიკალური ნომერი
+* if - თუ
+* implicit - ბუნებრივი
+* indentation - ინდენტაცია
+* index - პოზიცია
+* inherit - მემკვიდრეობით მიღება
+* inline element - ელემენტი რომელიც მხოლოდ იმ ადგილს იკავებს რაც სჭირდება
+* insert - ჩასმა
+* instruction - დავალება
+* integer - მთელი რიცხვი
+* Internal - შიდა
+* interactivity - მოძრავი
+* iteration - გამეორება
+
+**J**
+
+* JavaScript - ენა საიტის ფუნქციონირებისთვის
+* join - გაერთიანება, შესვლა
+
+**K**
+
+* keyword - რეზერვირებული სიტყვა ენაში
+
+**L**
+
+* label - ეტიკეტი
+* layout - განლაგება
+* length - სიგრძე
+* len - ფუნქცია რომელიც გამოთვლის სიისა და სტრინგის სიგრძეს ანუ ელემენტების ან სიმოლების რაოდენობას
+* level - დონე
+* line - ხაზი
+* line break - ხაზის გაწყვეტა
+* link - ბმული
+* list - სია
+* list_name.append(მნიშვნელობა) - სიის მეთოდი რომელიც სიის ბოლოს ჩაამატებს მნიშვნელობას
+* list_name.insert(ინდექსი, მნიშვნელობა) - სიის მეთოდი რომელიც გაცადემულ ინდექსსზე ჩასვამს მნიშვნელობას სიაში
+* list_name.remove(მნიშვნელობა) - წაშლის სიაში მყოფ იმ მნიშვნელობას რომელიც პირველი შეხვდება
+* list_name.pop(ინდექსი) - წაშლის სიიდან გადაცემულ ინდექსზე მყოფ ელემენტს, თუ ინდექსი არ გადავეცით წაშლის -1 ინდექსზე მყოფ ელემენტს (ესეიგი ბოლო ელემენტს)
+* logical operator - ლოგიკური ოპერატორი
+* loop - მარყუჟი, ციკლი
+
+**M**
+
+* mark - მონიშვნა
+* matching - შესატყვისი
+* memory - მეხსიერება
+* merge - გაერთიანება
+* modify - შეცვლა
+* multiple - მრავალი
+* mutable - შეცვლადი
+* muted - ხმა გათიშული
+
+**N**
+
+* natural language - ბუნებრივი ენა
+* navigation - ნავიგაცია
+* nesting - ჩაშენება
+* number - რიცხვი
+* numerical value - რიცხვითი მნიშვნელობა
+
+**O**
+
+* object - ობიექტი
+* observe - დაკვირვება
+* odd - კენტი
+* onclick - დაჭერისას
+* option - ვარიანტი
+* operator - ოპერატორი
+* order - თანმიმდევრობა
+* or - ან
+* organize - მოწესრიგება
+* Output - გამოტანა
+
+**P**
+
+* page - გვერდი
+* pair - წყვილი
+* parameter - ზოგადი ცვლადი ფუნქციაში
+* parent - მშობელი
+* parenthesis - ბრჩხილები
+* perform operation - ოპერაციის შესრულება
+* placeholder - ადგილის დამკავებელი
+* pop - ამოშლა
+* print - ბეჭდვა
+* presence - ყოფნა
+* pre-selected - წინასწარ არჩეული
+* property - კუთვნილება
+* pseudocode - ფსევდოკოდი
+
+**Q**
+
+* question - კითხვა
+* quotation marks - ბრჭყალები
+
+**R**
+
+* range - დიაპაზონი
+* refer - მითითება
+* represent - წარმოდგენა
+* request - მოთხოვნა
+* required - საჭირო
+* responsive - მორგებადი
+* return - დაბრუნება
+* result - შედეგი
+* run - გაშვება
+
+**S**
+
+* screen reader - ეკრანის მკითხველი
+* search - ძიება
+* search engine - საძიებო ძრავა
+* section - სექცია
+* selector - ამარჩეველი
+* semantic - ემოციური დატვირთვის მქონე
+* set - კომპლექტი
+* shape - ფორმა
+* single - ერთმაგი
+* size - ზომა
+* slice - ნაჭერი/ჩამოჭრა
+* source - წყარო
+* specified - დაზუსტებული
+* square brackets - კვადრატული ბრჩხილები
+* start - დასაწყისი
+* statement - განცხადება
+* store - შენახვა
+* string - ტექსტური მონაცემი
+* strong - ძლიერი
+* style - სტილი
+* subtract - გამოკლება
+* switch - გადამრთველი
+
+**T**
+
+* table - ცხრილი
+* tag - თაგი
+* target - სამიზნე
+* targets - უმიზნებს
+* technique - ტექნიკა
+* temporarily - დროებით
+* text-align - ტექსტის განლაგება
+* text formatting - ტექსტის გასტილვა
+* thing - საგანი
+* top - ზემოთ
+* trigger - გამოწვევა
+* typo - წერითი შეცდომა
+* type - ტიპი
+
+**U**
+
+* unorder - დაულაგებელი
+* underscore - ქვედატირე
+* unique - უნიკალური
+* unit - საზომი ერთეული
+* uppercase - დიდი ასოები
+* user - მომხმარებელი
+
+**V**
+
+* value - მნიშვნელობა
+* variable - ცვლადი
+* variable name - ცვლადის სახელი
+* variable value - ცვლადის მნიშვნელობა
+* variety - მრავალფეროვნება
+
+**W**
+
+* web - ქსელი
+* web accessibility - საიტის თავსებადობა
+* while - სანამ
+* white space - ზედმეტი space
+* width - სიგანე
+
